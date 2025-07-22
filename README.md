@@ -10,7 +10,7 @@
 
 ###
 
-<p align="left">I am a highly skilled software development professional with extensive experience, I am specialized in .Net Core and Azure, I love to code and design to robust high-performance solutions. I love to learn better and more modern ways to build software. I also have interest in learning AI and Data Science, so I have learned and built personal projects in Python, Typescript.<br><br>✨ Creating bugs since 2009<br>📚 I'm currently learning AI related fields<br>🖥️  See my portfolio at here<br>✉️  You can contact me at maynoralex@gmail.com</p>
+<p align="left">I am a highly skilled software development professional with extensive experience, I am specialized in .Net Core and Azure, I love to code and design to robust high-performance solutions. I love to learn better and more modern ways to build software. I also have interest in learning AI and Data Science, so I have learned and built personal projects in Python, Typescript.<br><br>✨ Creating bugs since 2009<br>📚 I'm currently learning AI related fields<br>🖥️  See my portfolio at <a href="https://maynoralex.github.io/">here</a>  <br>✉️  You can contact me at <a href="mailto:maynoralex@gmail.com">maynoralex@gmail.com</a> </p>
 
 ###
 
